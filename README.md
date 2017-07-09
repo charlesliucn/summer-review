@@ -1,2 +1,2 @@
-# summer-review
-The review notes intended to prepare for the interview in Sept.
+# 大三暑假 推研面试准备
+各学科要点整理
