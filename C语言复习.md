@@ -66,8 +66,9 @@
 	#include <stdio.h>
 	#define MP(x) printf("%d", a##x)
 	main( )
-	{ int a1=2, a5=4;
-	MP(1);
-	MP(5);
+	{ 
+		int a1=2, a5=4;
+		MP(1);
+		MP(5);
 	}
 	```
