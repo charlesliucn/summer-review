@@ -1,6 +1,6 @@
 # 大三暑假 推研面试准备
 
-### 往年面试经验
+### [往年面试经验](https://github.com/charlesliucn/summer-review/blob/master/previous.md)
 + [电路组](https://github.com/charlesliucn/summer-review/blob/master/previous.md#电路组)
 + [信号组](https://github.com/charlesliucn/summer-review/blob/master/previous.md#信号组)
 + [微波组](https://github.com/charlesliucn/summer-review/blob/master/previous.md#电磁场与固体物理组微波组)
@@ -10,9 +10,9 @@
 + [面试建议](https://github.com/charlesliucn/summer-review/blob/master/previous.md#面试建议)
 
 ### 各学科要点整理
-1. [计算机程序设计基础--C语言](https://github.com/charlesliucn/summer-review/blob/master/C%E8%AF%AD%E8%A8%80%E5%A4%8D%E4%B9%A0.md)
+1. [计算机程序设计基础--C语言](https://github.com/charlesliucn/summer-review/blob/master/01-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/01-C%E8%AF%AD%E8%A8%80%E5%A4%8D%E4%B9%A0.md)
 
-2. [数据结构与算法](https://github.com/charlesliucn/summer-review/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/readme.md)
+2. [数据结构与算法](https://github.com/charlesliucn/summer-review/tree/master/02-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
 3. [电子电路与系统基础](https://github.com/charlesliucn/summer-review/blob/master/03-%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/01-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%95%B4%E7%90%86.md)
 
