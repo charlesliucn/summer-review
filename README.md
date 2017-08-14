@@ -19,6 +19,8 @@
 
 ### 计算机组
 
-1. [计算机程序设计基础--C语言](https://github.com/charlesliucn/summer-review/blob/master/01-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/01-C%E8%AF%AD%E8%A8%80%E5%A4%8D%E4%B9%A0.md)
+1. [计算机程序设计基础--C语言](https://github.com/charlesliucn/summer-review/blob/master/01-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/01-C%E8%AF%AD%E8%A8%80%E5%A4%8D%E4%B9%A0.md)
 
-2. [数据结构与算法](https://github.com/charlesliucn/summer-review/tree/master/02-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
+2. [计算机程序设计基础--C++](https://github.com/charlesliucn/summer-review/blob/master/01-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/02-C%2B%2B%E5%A4%8D%E4%B9%A0.md)
+
+ [数据结构与算法](https://github.com/charlesliucn/summer-review/tree/master/02-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
