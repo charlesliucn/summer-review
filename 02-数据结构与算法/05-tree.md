@@ -29,7 +29,7 @@
 二叉树是k = 2时的k叉树。
 
 + 二叉树的性质
-<img src = "https://github.com/charlesliucn/internship/blob/master/preparation/course-review/datastruct-algorithm/tree-1.png">
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/03-%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/figures/P32.png?token=AYGNCE2bix8vAQyyN3pBMWfX1ZFsRSo4ks5ZluOCwA%3D%3D)
 
 + 二叉树的表示
 	- 空间占用：
