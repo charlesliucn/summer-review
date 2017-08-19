@@ -364,7 +364,7 @@
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/72.png?token=AYGNCLbHSVhlvYA4QipEPg-XhWC9-Bvgks5ZoVjCwA%3D%3D)
 
-		* 正比于频率的四次
+	- 正比于频率的四次
 	- 天空是为什么是蓝色的？晚霞为什么是红色的？
 
 + 磁偶极子的辐射场
