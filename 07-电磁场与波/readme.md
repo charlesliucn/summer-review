@@ -171,12 +171,12 @@
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/35.png?token=AYGNCMBQk8G_Ds02oNBDsXGjg67UScY_ks5ZoVY2wA%3D%3D)
 	- 泊松方程
 	
-	![image](36)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/36.png?token=AYGNCGmK_NlkHu3g1UdxFo3XUDXwMiVSks5ZoVcOwA%3D%3D)
 27. 电偶极子和磁偶极子的场型：
 	
-	![image](37)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/37.png?token=AYGNCIq7yADYxUpSWxFRpp31xgNLkWMIks5ZoVcOwA%3D%3D)
 
-	![image](38)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/38.png?token=AYGNCEr9_G2uogLwVM90lWPRa7uYZRcdks5ZoVcQwA%3D%3D)
 28. 磁偶极子的磁矩有三个来源：
 	- 电子自旋
 	- 电子绕核做轨道运动
@@ -188,19 +188,19 @@
 30. 磁场强度、磁化率和相对磁导率
 	- 磁场强度：
 
-	![image](39)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/39.png?token=AYGNCI9qPcuFNAVnX2OuUsALPp7fkU9-ks5ZoVcSwA%3D%3D)
 
-	![image](40)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/40.png?token=AYGNCGRJzFfJG7b_W6MrWYT9NPUoNSCOks5ZoVcUwA%3D%3D)
 	- 磁化率和相对磁导率
 
-	![image](41)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/41.png?token=AYGNCMCBrQLCOjSb_8_EkPuwKbA7cQ4dks5ZoVcWwA%3D%3D)
 31. 磁场的边界条件：
 	- 磁感应强度法向连续
 
-	![image](42)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/42.png?token=AYGNCNz8IB9HVDD3f0nimBD7ss7e0s3Zks5ZoVcYwA%3D%3D)
 	- 磁场强度切向连续
 
-	![image](43)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/43.png?token=AYGNCLcLaDyj-zimHMdujXvVILkKESIhks5ZoVdxwA%3D%3D)
 	- 矢量磁位连续
 32. 磁场的边值问题：
 	- 镜像电流法
@@ -211,71 +211,69 @@
 33. 法拉第电磁感应定律
 	- 静止系统中的感生电动势
 
-	![image](44)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/44.png?token=AYGNCKBpXFatGy5J7ezUmf_0gx5sVODJks5ZoVcZwA%3D%3D)
 	- 运动系统中的感生电动势
 
-	![image](45)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/45.png?token=AYGNCH3O9CU5ud6bZlZZ-kJOcjMM6punks5ZoVcbwA%3D%3D)
 34. 准静态场近似的电路理论：
 	- 基尔霍夫结点电流定理：
 
-	![image](46)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/46.png?token=AYGNCHhIRnRYfVodz_sGlg2_ZTkElKSLks5ZoVeTwA%3D%3D)
 	- 基尔霍夫环路电压定理：
 
-	![image](47)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/47.png?token=AYGNCN_2ExeFTd3W-VvNlJ2a3ebMmn5Vks5ZoVeUwA%3D%3D)
 35. 电感
 	- 自感
 
-	![image](48)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/48.png?token=AYGNCGNeI7tFdh5rXCbiUCf-hFrGfAJhks5ZoVeWwA%3D%3D)
 	- 互感
 
-	![image](49)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/49.png?token=AYGNCJvYGI_P7MMzc8ePv8l2VMltTcbzks5ZoVeYwA%3D%3D)
 36. 磁场中存储的能量：
 	
-	![image](50)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/50.png?token=AYGNCGFg_Ku8rmEQRlnYFq52Meu0yBTFks5ZoVeawA%3D%3D)
 
 
 ## 时变电磁场
 37. 麦克斯韦方程组
 + 微分形式：
 
-![image](51)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/51.png?token=AYGNCLWDo_0WfpD03tnQ7m2jPvxtjgj9ks5ZoVebwA%3D%3D)
 + 积分形式：
 
-![image](52)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/52.png?token=AYGNCMXFqAFjVx0UoxU0gZND1bP02O2Qks5ZoVedwA%3D%3D)
 + 复数形式(时谐电磁场)：
 
-![image](56)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/56.png?token=AYGNCMWia7_jGk_JE06NyoQPV5gLPe12ks5ZoVilwA%3D%3D)
 + 关系式：
 	- 自由空间：
 
-	![image](53)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/53.png?token=AYGNCELndzvcfIDag71Ru7dKrumag2Yvks5ZoVefwA%3D%3D)
+
 	- 介质：
 
-	![image](54)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/54.png?token=AYGNCHrQ5YCxRr4TRjpnyWFLcuy7TIbyks5ZoVehwA%3D%3D)
+
 + 边界条件：
 
-	![image](55)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/55.png?token=AYGNCFRU_HhYwsW2oKQ5cOuC0iA6frlBks5ZoVeiwA%3D%3D)
 
 38. 时变电磁场的波动性和波动方程
 	
-![image](57)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/57.png?token=AYGNCD-Jxol_oHQvqk9T3taAmQWm5VAZks5ZoVinwA%3D%3D)
 
-![image](58)
-
-+ 时谐场：
-
-![image](59)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/59.png?token=AYGNCApx87EhIgYCXUgLT2KsYhwt5zL-ks5ZoViowA%3D%3D)
 
 39. 时变场的坡印亭定理:
 + 能量密度：
 
-![image](60)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/60.png?token=AYGNCAs_qdYyyNcpyXbvYUyJSrHzR1Nfks5ZoViqwA%3D%3D)
 + 一般时变场坡印亭矢量：
 
-![image](61)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/61.png?token=AYGNCK-XpEHJhoxEbd0Pa6Zf40RR3piCks5ZoViswA%3D%3D)
 + 时谐场的坡印亭矢量：
 
-![image](62)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/62.png?token=AYGNCGKvo7E-qgD4yRia_lV9wOIehAW-ks5ZoVivwA%3D%3D)
 
 ## 平面电磁波
 39. 无限大无损媒质中的均匀平面波：
@@ -287,7 +285,7 @@
 	- 电场储能密度和磁场储能密度在任意场点相等
 + 无损媒质的波阻抗：(电场和磁场的正交分量的瞬时值之比)
 
-![image](63)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/63.png?token=AYGNCGrfQiZl7-QrVu-HrdhnVZwSqvmFks5ZoVixwA%3D%3D)
 
 40. 有损媒质中的均匀平面波：
 + 仍是TEM波
@@ -300,14 +298,14 @@
 
 41. 电磁波的极化
 
-![image](64)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/64.png?token=AYGNCKjHqpxFJY1XXMv0TMhSeARnPhE8ks5ZoVizwA%3D%3D)
 + φ1对应x方向电场，φ2对应y方向电场
 + φ1-φ2 = π/2，右旋圆极化波
 + φ1-φ2 = - π/2，左旋圆极化波
 
 42. 波的相速和群速
 
-![image](65)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/65.png?token=AYGNCFiJu1-ULJj50T7HveJATnEYNqMnks5ZoVi1wA%3D%3D)
 
 43. 平面电磁波的反射与折射：
 + 概念
@@ -317,11 +315,11 @@
 	- 功率传输系数
 + 无反射→布儒斯特角：
 
-![image](66)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/66.png?token=AYGNCLdizrrPM789nNso4m-36JOCXO5yks5ZoVi2wA%3D%3D)
 
 + 全反射→临界角：
 
-![image](67)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/67.png?token=AYGNCEcujvKdleKhpDiH1Ko_8zvWriuRks5ZoVi4wA%3D%3D)
 
 + 垂直极化波投射到导体平面：
 	* TE波特性
@@ -335,7 +333,7 @@
 ## 波导与谐振腔
 44. 金属的边界条件：
 
-![image](68)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/68.png?token=AYGNCJgeKYLEjRLjkVl0zIzrtzPyjDSeks5ZoVi6wA%3D%3D)
 
 45. 各种模式的电磁波：
 + 横电磁波(TEM模)：电磁场均无纵向(传输方向)分量
@@ -347,24 +345,24 @@
 	* 矩形波导：基模为TE10模，截止波长为2a
 + 混合波：电场磁场的纵向分量均不为0
 
-![image](69)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/69.png?token=AYGNCAZ_B2shNQUn7KrybFA1K--_RL61ks5ZoVi8wA%3D%3D)
 
 46. 纵向分量法→用于求解柱形传输结构中的场的关系
 
 47. 波导中的相速度与群速度及波导波长
 
-![image](70)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/70.png?token=AYGNCDNz3QhyPD_-e7ackOGPfXXuOp5lks5ZoVi-wA%3D%3D)
 
 48. 谐振腔：110模式
 
-![image](71)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/71.png?token=AYGNCPtJLiifcLW1cVLyNY-Rsgv9HggMks5ZoVjAwA%3D%3D)
 
 50. 电磁波的辐射：
 + 电偶极子的辐射场：
 	- 近区场：和静电场偶极子产生的电场表达式一致
 	- 远区场：
 
-	![image](72)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/72.png?token=AYGNCLbHSVhlvYA4QipEPg-XhWC9-Bvgks5ZoVjCwA%3D%3D)
 
 		* 正比于频率的四次
 	- 天空是为什么是蓝色的？晚霞为什么是红色的？
