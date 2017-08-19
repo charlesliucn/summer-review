@@ -140,35 +140,35 @@
 
 21. 安培定律(C1回路对C2回路的作用力)：
 
-	![image](27)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/27.png?token=AYGNCBlWvDLsOmg_HCFbAZn6AeiAOyiaks5ZoVX7wA%3D%3D)
 22. 毕奥·萨伐尔定律
 
-	![image](28)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/28.png?token=AYGNCF1k-eP2_JCyW8VKJrNtmYE5_Fekks5ZoVYpwA%3D%3D)
 	- 例：无限长直线恒定电流I1产生的磁感应强度：
 
-	![image](29)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/29.png?token=AYGNCGm9UeiQ_hjb4WEzVlh5RCgVbFNJks5ZoVYrwA%3D%3D)
 23. 洛伦兹力：
 	- 磁场的洛伦兹力和电场力的合力：
 	
-	![image](30)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/30.png?token=AYGNCIHu8NobA2bmbn8kukw0mEGgdvZ0ks5ZoVYtwA%3D%3D)
 24. 磁场的高斯定律：
 	- 积分形式：
 
-	![image](31)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/31.png?token=AYGNCM4pWPpKL9BxFWMEXWyfbeOR3Dq6ks5ZoVYvwA%3D%3D)
 	- 微分形式：
 
-	![image](32)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/32.png?token=AYGNCNr_YZ9HtGG0LtglbXsXpmxTSxweks5ZoVYxwA%3D%3D)
 25. 安培环路定律：
 	- 积分形式：磁感应强度切线分量大小相等
 
-	![image](33)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/33.png?token=AYGNCFjoF3QYpoDZr2U_B9pNK00Tw6Ewks5ZoVYzwA%3D%3D)
 	- 微分形式：
 
-	![image](34)	
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/34.png?token=AYGNCBkeJaifKBYI_yeBJGW32ycGd5rtks5ZoVY1wA%3D%3D)	
 26. 稳恒磁场的矢量磁位：
 	- 与稳恒电场中的电位对比
 	
-	![image](35)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/35.png?token=AYGNCMBQk8G_Ds02oNBDsXGjg67UScY_ks5ZoVY2wA%3D%3D)
 	- 泊松方程
 	
 	![image](36)
