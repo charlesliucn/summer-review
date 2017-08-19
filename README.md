@@ -28,3 +28,8 @@
 	+ [算法部分](https://github.com/charlesliucn/summer-review/blob/master/02-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md#基本非数值算法)
 
 4. [操作系统](https://github.com/charlesliucn/summer-review/blob/master/05-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md)
+
+
+### 微波组
+
+1. [电磁场与波](https://github.com/charlesliucn/summer-review/blob/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/readme.md)
