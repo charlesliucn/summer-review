@@ -399,12 +399,12 @@
 	+ 等r圆：圆心(r/1+r,0)
 	+ 等电抗圆(x圆)；圆心(1,1/x)
 
-	![image](73)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/73.png?token=AYGNCDuQu_rTfCDy_vCsakSL2T-m6YFJks5ZoiF1wA%3D%3D)
 
 8. 导纳圆图：
 	+ 匹配点不变，开路点和短路点互换位置
 
-	![image](74)
+	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/74.png?token=AYGNCLaArZITs64neH8f4z6RWYIfrWwlks5ZoiFvwA%3D%3D)
 
 9. 如何查圆图：
 	+ 串联：阻抗圆图；并联：导纳圆图
@@ -423,9 +423,9 @@
 14. 微带线：主模是**准TEM模**
 + 随着工作频率的升高，准TEM模与纯TEM之间的差别越大
 
-![image](75)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/75.png?token=AYGNCFZZxcBqi27sQwGPvc4v4oZvJeBMks5ZoiFxwA%3D%3D)
 
-![image](76)
+![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/76.png?token=AYGNCO7Lr7O7HKlLpRMSUlFqnzQYQ3chks5ZoiFzwA%3D%3D)
 
 15. 归一化入射波电压和归一化入射波电流与真实的电压和电流有本质区别，不再具有真实电压和电流的物理意义，仅仅为了方便运算。
 
