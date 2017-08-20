@@ -29,6 +29,7 @@
 
 4. [操作系统](https://github.com/charlesliucn/summer-review/blob/master/05-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md)
 
+5. [网络技术基础](https://github.com/charlesliucn/summer-review/blob/master/06-%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF%E5%9F%BA%E7%A1%80/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md)
 
 ### 微波组
 
