@@ -8,49 +8,59 @@
 	- 高斯散度定理
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/01.png?token=AYGNCLaHJrvISHBaFwNzMhw148ki-Kfsks5ZoRUnwA%3D%3D)
+
 4. 旋度是矢量，旋度为零，则为无旋场或保守场，环路积分为0
 	- 斯托克斯定理
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/02.png?token=AYGNCKmHxr3QPEVKuDj3TSqrunUgHklvks5ZoRU7wA%3D%3D)
+
 5. 亥姆霍兹定理：
 	- 对于一个在无限远处有界、完全正则的矢量函数，一定可以分解为两个矢量函数的和，一个矢量函数散度恒等于0，另一个是两函数旋度恒等于0：矢量函数=无旋场+散度为0的场
 	- 另一种解释：若一矢量场的散度和旋度在有限区域内不为0，且处处已知，则该矢量场能够唯一求得。
 
-## 静电场基本知识
+#### 静电场基本知识
 
 6. 库伦定律和电场强度的定义
 7. 高斯定律：对静电场、时变场均成立
 	- 积分形式：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/03.png?token=AYGNCIwTpn4mT53k8Byhi7evaqP7lFCzks5ZoRVMwA%3D%3D)
+
 	- 微分形式：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/04.png?token=AYGNCCYd0QfjZoXMvyVf-E2eUsK4WB0Fks5ZoRVawA%3D%3D)
+
 8. 静电场的保守性(无旋场)：
 	- 积分形式：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/05.png?token=AYGNCHpvBhrezJrEkhRgJDwpRFd5Ap94ks5ZoRVswA%3D%3D)
+
 	- 微分形式：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/06.png?token=AYGNCBeMREAszZ_S9HER5ycHjIDp3NUeks5ZoRV7wA%3D%3D)
+
 9. 地面平均电场强度为120V/m，海平面为130V/m，为什么不能电死人？
 10. 电偶极子，远场条件：
 	
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/07.png?token=AYGNCJoLmWafuNHfEp3KI894MWTS16X3ks5ZoRWMwA%3D%3D)
+
 	- 电势与距离的二次方成反比
 	- 电场强度与距离的三次方成反比
 11. 静电场中介质的极化：
 	
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/08.png?token=AYGNCGgDc3I79WYeRZrKMnMpx5Vm330Wks5ZoRWkwA%3D%3D)
+
 	- 介质极化使得电场强度降低
 	- 极化强度定义：介质在给定点上单位体积内的偶极矩
 12. 有介质存在时高斯定律：
 	- 积分形式：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/10.png?token=AYGNCKPfPrspEJZ_vQRPqmPxyOgKiF9Mks5ZoRXDwA%3D%3D)
+
 	- 微分形式：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/09.png?token=AYGNCBurOs7z462HAdXXCAwEcHtTPz5gks5ZoRWywA%3D%3D)
+
 13. 通常极性分子的介电常数比非极性分子高
 14. 电介质的分类：
 	- 均匀/非均匀
@@ -60,32 +70,40 @@
 	- 电位移矢量：
 		
 		* ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/11.png?token=AYGNCESxHiSjXCQKsEtCUGYZlXIvGtThks5ZoRXUwA%3D%3D)
+		
 		* 自由电荷密度
 	- 静电场的环流定理：
 		
 		* ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/12.png?token=AYGNCBNTMujdytPg6AMXBcKr9SZo7fMQks5ZoRXxwA%3D%3D)
+		
 	- 介质表面后角度变化的规律：
 		
 		* ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/13.png?token=AYGNCPUrgW4S8zpvNzb1-bkquylTM24Sks5ZoRX6wA%3D%3D)
+		
 	- 金属分界面的边界条件：
 		
 		* ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/14.png?token=AYGNCBufSuhuaG_aBn2RtBf7u9M7HW1Hks5ZoRYCwA%3D%3D)
+		
 	- 标量电位的边界条件：
 		* 介质分界面(两个强制条件)：
 		
 		![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/15.png?token=AYGNCA40JqOmxN06TRE74I0jCpmeOfuKks5ZoRYNwA%3D%3D)
 		
 		![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/16.png?token=AYGNCMPKfgYWUGqYyBnxkXVpzt6lsYm1ks5ZoRYWwA%3D%3D)
+
 		* 金属分界面(只有第1个是强制条件)
 		
 		![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/17.png?token=AYGNCFCKuBvj5T0Sn49PNB1zskgbssbXks5ZoRYfwA%3D%3D)
+
 16. 静电场的能量：
 	- 点电荷系能量：用电荷密度表示
 	
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/18.png?token=AYGNCJ9C1gxHJhj87I42Qvlk4uWmjfHVks5ZoRZHwA%3D%3D)
+
 	- 用场强表示：
 	
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/19.png?token=AYGNCB_KB27VQFzwhKF3DyvXns93OPNVks5ZoRZPwA%3D%3D)
+
 	- 求静电场中的力，常用的方法：虚位移法
 
 ## 静电场边值问题求解
@@ -94,16 +112,20 @@
 	- 泊松方程：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/20.png?token=AYGNCAUZwJvkFIhBO1D47t3er0EASgO2ks5ZoRZbwA%3D%3D)
+
 	- 拉普拉斯方程：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/21.png?token=AYGNCG5fStmFxApbjbxxv56PTK8U30C6ks5ZoRZmwA%3D%3D)
+
 18. 线性各向同性的均匀介质中：
 	- 泊松方程：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/22.png?token=AYGNCIMGJ-Ua1lq627vLCqJ4rwYNZkynks5ZoRZ1wA%3D%3D)
+
 	- 拉普拉斯方程：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/23.png?token=AYGNCMIZJjVDXHqsTPfS2YeYLI1n5CB8ks5ZoRaBwA%3D%3D)
+
 19. 边值问题的分类：
 	- 第一类边值问题：全部边界的φ都已知
 		* 例：电偶极子
@@ -121,6 +143,7 @@
 		* 二维问题：矩形区域为例
 		
 		![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/24.png?token=AYGNCFRIhxgcNiW8J67ktZ3sEapt4OUbks5ZoRaJwA%3D%3D)
+
 		* 圆柱坐标系：第一类、第二类n阶贝塞尔/虚宗量贝塞尔函数
 		* 球坐标系：第一类、第二类勒让德函数
 	- 求解方法3：有限差分算法
@@ -131,9 +154,11 @@
 			+ 点电荷的密度表达式：
 			
 			![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/25.png?token=AYGNCKX1tTScMjMkc-AiEWP9qZLkZp1wks5ZoRaTwA%3D%3D)
+
 		* 三类边值条件：
 		
 		![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/26.png?token=AYGNCFz_yWSaGRw-lZ6cVW-H0up8thXeks5ZoRabwA%3D%3D)
+
 		* 求解格林函数的方法：镜像法、本征函数展开法
 
 ## 稳恒磁场
@@ -141,42 +166,53 @@
 21. 安培定律(C1回路对C2回路的作用力)：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/27.png?token=AYGNCBlWvDLsOmg_HCFbAZn6AeiAOyiaks5ZoVX7wA%3D%3D)
+
 22. 毕奥·萨伐尔定律
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/28.png?token=AYGNCF1k-eP2_JCyW8VKJrNtmYE5_Fekks5ZoVYpwA%3D%3D)
+
 	- 例：无限长直线恒定电流I1产生的磁感应强度：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/29.png?token=AYGNCGm9UeiQ_hjb4WEzVlh5RCgVbFNJks5ZoVYrwA%3D%3D)
+
 23. 洛伦兹力：
 	- 磁场的洛伦兹力和电场力的合力：
 	
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/30.png?token=AYGNCIHu8NobA2bmbn8kukw0mEGgdvZ0ks5ZoVYtwA%3D%3D)
+
 24. 磁场的高斯定律：
 	- 积分形式：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/31.png?token=AYGNCM4pWPpKL9BxFWMEXWyfbeOR3Dq6ks5ZoVYvwA%3D%3D)
+
 	- 微分形式：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/32.png?token=AYGNCNr_YZ9HtGG0LtglbXsXpmxTSxweks5ZoVYxwA%3D%3D)
+
 25. 安培环路定律：
 	- 积分形式：磁感应强度切线分量大小相等
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/33.png?token=AYGNCFjoF3QYpoDZr2U_B9pNK00Tw6Ewks5ZoVYzwA%3D%3D)
+
 	- 微分形式：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/34.png?token=AYGNCBkeJaifKBYI_yeBJGW32ycGd5rtks5ZoVY1wA%3D%3D)	
+
 26. 稳恒磁场的矢量磁位：
 	- 与稳恒电场中的电位对比
 	
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/35.png?token=AYGNCMBQk8G_Ds02oNBDsXGjg67UScY_ks5ZoVY2wA%3D%3D)
+
 	- 泊松方程
 	
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/36.png?token=AYGNCGmK_NlkHu3g1UdxFo3XUDXwMiVSks5ZoVcOwA%3D%3D)
+
 27. 电偶极子和磁偶极子的场型：
 	
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/37.png?token=AYGNCIq7yADYxUpSWxFRpp31xgNLkWMIks5ZoVcOwA%3D%3D)
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/38.png?token=AYGNCEr9_G2uogLwVM90lWPRa7uYZRcdks5ZoVcQwA%3D%3D)
+
 28. 磁偶极子的磁矩有三个来源：
 	- 电子自旋
 	- 电子绕核做轨道运动
@@ -194,13 +230,16 @@
 	- 磁化率和相对磁导率
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/41.png?token=AYGNCMCBrQLCOjSb_8_EkPuwKbA7cQ4dks5ZoVcWwA%3D%3D)
+
 31. 磁场的边界条件：
 	- 磁感应强度法向连续
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/42.png?token=AYGNCNz8IB9HVDD3f0nimBD7ss7e0s3Zks5ZoVcYwA%3D%3D)
+
 	- 磁场强度切向连续
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/43.png?token=AYGNCLcLaDyj-zimHMdujXvVILkKESIhks5ZoVdxwA%3D%3D)
+
 	- 矢量磁位连续
 32. 磁场的边值问题：
 	- 镜像电流法
@@ -212,23 +251,29 @@
 	- 静止系统中的感生电动势
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/44.png?token=AYGNCKBpXFatGy5J7ezUmf_0gx5sVODJks5ZoVcZwA%3D%3D)
+
 	- 运动系统中的感生电动势
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/45.png?token=AYGNCH3O9CU5ud6bZlZZ-kJOcjMM6punks5ZoVcbwA%3D%3D)
+
 34. 准静态场近似的电路理论：
 	- 基尔霍夫结点电流定理：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/46.png?token=AYGNCHhIRnRYfVodz_sGlg2_ZTkElKSLks5ZoVeTwA%3D%3D)
+
 	- 基尔霍夫环路电压定理：
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/47.png?token=AYGNCN_2ExeFTd3W-VvNlJ2a3ebMmn5Vks5ZoVeUwA%3D%3D)
+
 35. 电感
 	- 自感
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/48.png?token=AYGNCGNeI7tFdh5rXCbiUCf-hFrGfAJhks5ZoVeWwA%3D%3D)
+
 	- 互感
 
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/49.png?token=AYGNCJvYGI_P7MMzc8ePv8l2VMltTcbzks5ZoVeYwA%3D%3D)
+
 36. 磁场中存储的能量：
 	
 	![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/50.png?token=AYGNCGFg_Ku8rmEQRlnYFq52Meu0yBTFks5ZoVeawA%3D%3D)
@@ -239,12 +284,15 @@
 + 微分形式：
 
 ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/51.png?token=AYGNCLWDo_0WfpD03tnQ7m2jPvxtjgj9ks5ZoVebwA%3D%3D)
+
 + 积分形式：
 
 ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/52.png?token=AYGNCMXFqAFjVx0UoxU0gZND1bP02O2Qks5ZoVedwA%3D%3D)
+
 + 复数形式(时谐电磁场)：
 
 ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/56.png?token=AYGNCMWia7_jGk_JE06NyoQPV5gLPe12ks5ZoVilwA%3D%3D)
+
 + 关系式：
 	- 自由空间：
 
@@ -268,9 +316,11 @@
 + 能量密度：
 
 ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/60.png?token=AYGNCAs_qdYyyNcpyXbvYUyJSrHzR1Nfks5ZoViqwA%3D%3D)
+
 + 一般时变场坡印亭矢量：
 
 ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/61.png?token=AYGNCK-XpEHJhoxEbd0Pa6Zf40RR3piCks5ZoViswA%3D%3D)
+
 + 时谐场的坡印亭矢量：
 
 ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/62.png?token=AYGNCGKvo7E-qgD4yRia_lV9wOIehAW-ks5ZoVivwA%3D%3D)
@@ -299,6 +349,7 @@
 41. 电磁波的极化
 
 ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/64.png?token=AYGNCKjHqpxFJY1XXMv0TMhSeARnPhE8ks5ZoVizwA%3D%3D)
+
 + φ1对应x方向电场，φ2对应y方向电场
 + φ1-φ2 = π/2，右旋圆极化波
 + φ1-φ2 = - π/2，左旋圆极化波
@@ -421,25 +472,26 @@
 12. 波导表现出高通滤波器的特性
 13. 简并模：不同的场分布具有相同的截止波长，称为模式简并
 14. 微带线：主模是**准TEM模**
-+ 随着工作频率的升高，准TEM模与纯TEM之间的差别越大
+	+ 随着工作频率的升高，准TEM模与纯TEM之间的差别越大
 
 ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/75.png?token=AYGNCFZZxcBqi27sQwGPvc4v4oZvJeBMks5ZoiFxwA%3D%3D)
 
 ![image](https://raw.githubusercontent.com/charlesliucn/summer-review/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/figures/76.png?token=AYGNCO7Lr7O7HKlLpRMSUlFqnzQYQ3chks5ZoiFzwA%3D%3D)
 
+
 15. 归一化入射波电压和归一化入射波电流与真实的电压和电流有本质区别，不再具有真实电压和电流的物理意义，仅仅为了方便运算。
 
 16. 散射参量：
-+ 研究内向波a和外向波b之间的关系：
-	- S11：除第1个口外，其余各口内向波为0时1口的外向波与1口的内向波之比
-	- S12：除第2个口外，其余各口内向波为0时1口的外向波与2口的内向波之比
-+ 互易网络/可逆网络：S12 = S21
-+ 对称网络：S11 = S22，S12 = S21
+	+ 研究内向波a和外向波b之间的关系：
+		- S11：除第1个口外，其余各口内向波为0时1口的外向波与1口的内向波之比
+		- S12：除第2个口外，其余各口内向波为0时1口的外向波与2口的内向波之比
+	+ 互易网络/可逆网络：S12 = S21
+	+ 对称网络：S11 = S22，S12 = S21
 
 17. 仪器的误差：
-+ 系统误差
-+ 随机误差
-+ 漂移误差
-+ 校准：通过测试标准件测试系统的误差，消除误差项
+	+ 系统误差
+	+ 随机误差
+	+ 漂移误差
+	+ 校准：通过测试标准件测试系统的误差，消除误差项
 
 18. 匹配负载：一种终端器件，理想情况能吸收入射波的全部能量，不发生反射
