@@ -34,3 +34,5 @@
 ### 微波组
 
 1. [电磁场与波](https://github.com/charlesliucn/summer-review/blob/master/07-%E7%94%B5%E7%A3%81%E5%9C%BA%E4%B8%8E%E6%B3%A2/readme.md)
+
+2. [固体物理]()
