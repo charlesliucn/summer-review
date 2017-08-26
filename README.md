@@ -39,9 +39,9 @@
 
 ### 信号组
 
-1. [信号与系统](https://github.com/charlesliucn/summer-review/tree/master/09-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F)
+1. [信号与系统](https://github.com/charlesliucn/summer-review/blob/master/09-%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md)
 
-2. [数字信号处理]()
+2. [数字信号处理](https://github.com/charlesliucn/summer-review/blob/master/10-%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md)
 
 3. [通信与网络]()
 
