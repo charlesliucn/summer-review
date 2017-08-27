@@ -43,7 +43,7 @@
 
 2. [数字信号处理](https://github.com/charlesliucn/summer-review/blob/master/10-%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md)
 
-3. [通信与网络]()
+3. [通信与网络](https://github.com/charlesliucn/summer-review/blob/master/11-%E9%80%9A%E4%BF%A1%E4%B8%8E%E7%BD%91%E7%BB%9C/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md)
 
 4. [概率论与随机过程]()
 
