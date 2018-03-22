@@ -48,7 +48,3 @@
 4. [概率论与随机过程](https://github.com/charlesliucn/summer-review/blob/master/12-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md)
 
 5. [统计信号处理](https://github.com/charlesliucn/summer-review/blob/master/13-%E7%BB%9F%E8%AE%A1%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/%E7%9F%A5%E8%AF%86%E6%A2%B3%E7%90%86.md)
-
-* * *
-
-为系里推研面试而准备，整理时间有限，复习过程中发现知识点中有不少错别字。请感兴趣的同学帮助纠正！
